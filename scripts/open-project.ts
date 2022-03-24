@@ -1,6 +1,6 @@
 // Menu: Open Project
 // Description: Opens a project in code
-// Shortcut: cmd shift .
+// Shortcut: opt shift .
 import path from 'path'
 import fs from 'fs'
 import os from 'os'
